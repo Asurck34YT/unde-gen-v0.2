@@ -1,4 +1,4 @@
-# unde-gen-v0.2
+# UndeGen v0.2 by Asurck
 Este Generador es hecho por Asurck, es totalmente gatis :P
 
 1.- Añade la cantidad a generar.
